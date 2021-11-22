@@ -11,10 +11,6 @@
     <legend>Register Form</legend>
     <form name="frmRegister" method="post" action="simpan.php">
         <p>
-            <label for="idmakananbasah">Makanan Basah ID: </label>
-            <input type="text" name="idmakananbasah" id="idmakananbasah">
-        </p>
-        <p>
             <label for="namamakanan"> Nama Makanan: </label>
             <input type="text" name="namamakanan" id="namamakanan">
         </p>
